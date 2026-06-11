@@ -1,5 +1,3 @@
-# A mathematical playground
-
 The central premise of this module is that you __do not__ become a mathematicain __by knowing__ mathamatics. You become a mathematician __by doing__ mathematics. Computers are a remarkable tool for helping people to do mathematics. The linked pages below thus provide you countless opportunities to __do mathematics using a computer.__ As the __only qualification__ for being a mathematician is __doing mathematics__ you can work through these activities in any order. However, following the arrows might make this process a little easier. 
 
 Lastly, note that, even if you get an artificial intelligence to complete these activities, you are still doing mathematics. The goal for all the exercises in this module is for you to:
