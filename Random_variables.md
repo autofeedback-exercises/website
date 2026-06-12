@@ -27,11 +27,13 @@ reports.
 ```mermaid
 flowchart TD
   subgraph one
+    direction LR
     rep("Reproducibility video") --> ex("Expectation and means exercises")
     ex --> exrep("An example report")
   end
   rv("Random variables exercises") --> one
   subgraph two
+    direction LR 
     statvid("Statistics video") --> histo("Histograms exercises")
     histo --> exrep2("An example report")
   end
