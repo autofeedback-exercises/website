@@ -44,5 +44,5 @@ flowchart TD
   click statvid "https://www.youtube.com/watch?v=qfGW1Snv-m0" "A video explaining the connection between probability theory and statistics"
   click histo "https://colab.research.google.com/github/autofeedback-exercises/exercises/blob/main/New-SOR3012/Histograms/Histograms.ipynb" "Programming exercises that explain how you can calculate estimate the probability mass function for a random variable by sampling"
   click exrep2 "random/report2.pdf" "An example portfolio report that uses the ideas that were covered in the last set of Python exercises"
-  click extend "random/extensions.md" "Some suggestions for going further with the ideas that have been covered in these exercises"
+  click extend "random/extensions.html" "Some suggestions for going further with the ideas that have been covered in these exercises"
 ```
