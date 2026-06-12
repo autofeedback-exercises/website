@@ -15,10 +15,10 @@ flowchart TD
    cp --> prob(Random variables)
    prob --> stoch(Stochastic processes)
    cp --> statmech(Statistical mecahnics)
-   click cp "Programming.md" "Material to remind you how to manipulate lists of numbers and plot graphs using python"
-   click ob "Objects.md" "Exercises showing you how we can represent real-world phenomena using mathematical objects"
-   click prob "Random_variables.md" "An introduction to using probability and the theory of random variables to describe phenomena"
-   click stoch "Stochastic_processes.md" "Models for describing how systems evolve over time in a random manner"
+   click cp "Programming.html" "Material to remind you how to manipulate lists of numbers and plot graphs using python"
+   click ob "Objects.html" "Exercises showing you how we can represent real-world phenomena using mathematical objects"
+   click prob "Random_variables.html" "An introduction to using probability and the theory of random variables to describe phenomena"
+   click stoch "Stochastic_processes.html" "Models for describing how systems evolve over time in a random manner"
    click statmech "https://www.plumed-tutorials.org/lessons/25/004/data/NAVIGATION.html" "Statistical mechanics is a topic in physics that allows us to use the understanding of atoms that emerges from quantum mechanics to develop theories that describe how large numbers of atoms will behave"
 ```
 
