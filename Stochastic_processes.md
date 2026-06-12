@@ -14,7 +14,7 @@ flowchart TD
    subgraph one
       direction LR
       intro("Random models, parameters and trends") --> gr("Gamblers ruin exercises")
-      gr --> rep1("Example report) 
+      gr --> rep1("Example report") 
    end
    subgraph two
       direction LR
