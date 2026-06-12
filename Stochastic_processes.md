@@ -39,6 +39,7 @@ flowchart TD
       direction LR
       vid3("Relaxing the Markovian assumption") --> inhomo("Exercises on simulating inhomogenous Poisson processes")
    end
+   four --> five
    click intro "stochastic/intro.html" "A discussion of when we say that a parameter has a statistically significant effect on a random model"
    click gr "https://colab.research.google.com/github/autofeedback-exercises/exercises/blob/main/New-SOR3012/Trends/Trends.ipynb" "Programming exercises that introduce you to a model for gambling in a game like roulette"
    click rep1 "stochastic/report1.pdf" "An example report showing one thing that can be investigated with the Gamblers ruin model that was introduced during the programming exercises"
