@@ -12,16 +12,8 @@
   </head>
   <body>
     <section class="page-header">
-      <a class="site-title" href="{{ '/' | absolute_url }}"><img width="250" src="{{ '/' | absolute_url }}teacher.png" alt="teacher"></a>
       <h1 class="project-name">{{ site.title }}</h1>
       <h2 class="project-tagline">A collection of maths education resources by Gareth Tribello and Andrew Brown</h2>
-      {% for item in site.data.navigation.pages %}
-        {% if page.url == item.url %}
-        <a href="{{ site.baseurl }}{{ item.url }}" class="btn actual">{{ item.title }}</a>
-        {% else %}
-        <a href="{{ site.baseurl }}{{ item.url }}" class="btn">{{ item.title }}</a>
-        {% endif %}
-      {% endfor %}
     </section>
 
     <section class="main-content">
