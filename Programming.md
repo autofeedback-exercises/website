@@ -13,7 +13,7 @@ quickly write python programs to plot functions. The colab notebook that is link
 If you think you can write programs to do all these things, you can skip this block of exercises and go directly to the more mathematical activities.
 
 ```mermaid
-flowchart TD 
+flowchart LR 
   cp("Computer programming")
   click cp "https://colab.research.google.com/github/autofeedback-exercises/exercises/blob/main/New-SOR3012/Programming/Programming.ipynb" "Colab exercises that introduce you to the basic of computer programs"
 ```
