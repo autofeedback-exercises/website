@@ -14,6 +14,6 @@ If you think you can write programs to do all these things, you can skip this bl
 
 ```mermaid
 flowchart TD 
-  cp["Computer programming"]
+  cp("Computer programming")
   click cp "https://colab.research.google.com/github/autofeedback-exercises/exercises/blob/main/New-SOR3012/Programming/Programming.ipynb" "Colab exercises that introduce you to the basic of computer programs"
 ```
