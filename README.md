@@ -15,6 +15,8 @@ flowchart TD
    cp --> prob(Random variables)
    prob --> stoch(Stochastic processes)
    cp --> statmech(Statistical mecahnics)
+   prob --> hypo(Hypothesis testing)
+   click hypo "Hypothesis.html" "Material on how we can use hypothesis testing to test if a proposition is true or false" 
    click cp "Programming.html" "Material to remind you how to manipulate lists of numbers and plot graphs using python"
    click ob "Objects.html" "Exercises showing you how we can represent real-world phenomena using mathematical objects"
    click prob "Random_variables.html" "An introduction to using probability and the theory of random variables to describe phenomena"
