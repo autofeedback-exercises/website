@@ -36,6 +36,7 @@ flowchart TD
     G("Example report on comparing sampled distributions") --> H("Colab exercises")
     H --> I("Possible extensions")
   end
+  two --> three
   click A "hypothesis/hypothesis_testing_basic.pdf" "An example report exploring hypothesis testing by treating the p-values you obtain as random variables"
   click B "README.md" "Colab exercises to introduce you to the basics of hypothesis testing"
   click C "hypothesis/extensions1.html" "Suggested extension activities on hypothesis testing for you to persue"
