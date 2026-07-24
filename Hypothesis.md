@@ -44,5 +44,5 @@ flowchart TD
   click F "hypothesis/extensions2.html" "Suggested extension activities on performing hypothesis tests using the t-distribution"
   click G "hypothesis/homogeneity_tests_report.pdf" "An example report on the statitsical tests for homogeneity between distribtuions"
   click H "README.md" "Colab exercises to introduce you to the basics of performing hypothesis tests to test whether two distributions are the same or different"
-  click I "hypothesis/extensions3.html" "Suggested extension activities on investigating statistics for other hypothesis tests"  
+  click I "hypothesis/extensions3.html" "Suggested extension activities on investigating statistics for other hypothesis tests"
 ```
