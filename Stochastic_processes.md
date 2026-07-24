@@ -14,18 +14,21 @@ flowchart TD
    subgraph one
       direction LR
       intro("Random models, parameters and trends") --> gr("Gamblers ruin exercises")
-      gr --> rep1("Example report") 
+      gr --> rep1("Example report")
+      rep1 --> ext1("Possible extensions") 
    end
    subgraph two
       direction LR
       vid("Introduction to Markov chains") --> ht("Hitting time exercises")
       ht --> rep2("Example report")
+      rep2 --> ext2("Possible extensions")
    end
    one --> two
    subgraph three
       direction LR
       back("The PageRank algorithm") --> sd("Staionary distribution exercises")
       sd --> rep3("Example report")
+      rep3 --> ext3("Possible extensions")
    end
    two --> three
    subgraph four
@@ -33,11 +36,14 @@ flowchart TD
       vid2("Introduction to Markov chains in continuous time") --> ctm("Continuous time Markov chain exercises")
       ctm --> rep4("Queue report")
       ctm --> rep5("Coffee shop report")
+      rep4 --> ext4("Possible extensions")
+      rep5 --> ext4
    end
    three --> four
    subgraph five
       direction LR
       vid3("Relaxing the Markovian assumption") --> inhomo("Exercises on simulating inhomogenous Poisson processes")
+      inhomo -->ext5("Possible extensions")
    end
    four --> five
    click intro "stochastic/intro.html" "A discussion of when we say that a parameter has a statistically significant effect on a random model"
@@ -55,4 +61,9 @@ flowchart TD
    click rep5 "stochastic/report5.pdf" "An example report demonstrating how we can simulate a coffee shop using event driven simulation"
    click vid3 "https://www.youtube.com/watch?v=q2843QDkb1Q" "A video introducing the inhomogeneous Poisson process"
    click inhomo "https://colab.research.google.com/github/autofeedback-exercises/exercises/blob/main/New-SOR3012/Inhomogeneity/Inhomogenity.ipynb" "Exercises on simulating inhomogeneous Poisson processes"
+   click ext1 "stochastic/extensions1.html" "Suggested extension activities to do using the theory of gamblers ruin"
+   click ext2 "stochastic/extensions2.html" "Suggested extension activities for calculating hitting times"
+   click ext3 "stochastic/extensions3.html" "Suggested extension activities for calculating the stationary distribution for a Markov chain"
+   click ext4 "stochastic/extensions4.html" "Suggested extension activities for Markov chains in continuous time"
+   click ext5 "stochastic/extensions5.html" "Suggested extension activities for exploring a relaxation of the Markov assumption"
 ```
