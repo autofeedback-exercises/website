@@ -38,7 +38,7 @@ flowchart TD
   end
   two --> three
   click A "hypothesis/hypothesis_testing_basic.pdf" "An example report exploring hypothesis testing by treating the p-values you obtain as random variables"
-  click B "README.md" "Colab exercises to introduce you to the basics of hypothesis testing"
+  click B "https://colab.research.google.com/github/autofeedback-exercises/exercises/blob/main/Hypothesis/Basics/Hypothesis-testing.ipynb" "Colab exercises to introduce you to the basics of hypothesis testing"
   click C "hypothesis/extensions1.html" "Suggested extension activities on hypothesis testing for you to persue"
   click D "hypothesis/t_tests_report.pdf" "An example report exploring performing hypothesis tests using t-tests"
   click E "README.md" "Colab exercises on performing hypothesis using Student-t distribution"
