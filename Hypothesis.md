@@ -41,9 +41,9 @@ flowchart TD
   click B "https://colab.research.google.com/github/autofeedback-exercises/exercises/blob/main/Hypothesis/Basics/Hypothesis-testing.ipynb" "Colab exercises to introduce you to the basics of hypothesis testing"
   click C "hypothesis/extensions1.html" "Suggested extension activities on hypothesis testing for you to persue"
   click D "hypothesis/t_tests_report.pdf" "An example report exploring performing hypothesis tests using t-tests"
-  click E "README.md" "Colab exercises on performing hypothesis using Student-t distribution"
+  click E "https://colab.research.google.com/github/autofeedback-exercises/exercises/blob/main/Hypothesis/T-tests/t-test-exercises.ipynb" "Colab exercises on performing hypothesis using Student-t distribution"
   click F "hypothesis/extensions2.html" "Suggested extension activities on performing hypothesis tests using the t-distribution"
   click G "hypothesis/homogeneity_tests_report.pdf" "An example report on the statitsical tests for homogeneity between distributions"
-  click H "README.md" "Colab exercises on performing hypothesis tests to test whether two distributions are the same or different"
+  click H "https://colab.research.google.com/github/autofeedback-exercises/exercises/blob/main/Hypothesis/Homogeniety/tests-of-homogeneity.ipynb" "Colab exercises on performing hypothesis tests to test whether two distributions are the same or different"
   click I "hypothesis/extensions3.html" "Suggested extension activities on investigating statistics for other hypothesis tests"
 ```
