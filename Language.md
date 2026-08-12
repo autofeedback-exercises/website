@@ -15,6 +15,6 @@ in mathematics.
 
 ```mermaid
 flowchart TD
-   A(Letter distributions) 
-   click A "https://colab.research.google.com/github/autofeedback-exercises/exercises/blob/main/ModSim/Objects/Letters.ipnb" "Programming exercises that detail how to convert words and sentences into letter distributions"
+   A(Letter distributions report) 
+   click A "language/natural_language_I.pdf" "An example report on analysing the distributions of letters in sentences"
 ```
