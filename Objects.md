@@ -12,5 +12,5 @@ be used.
 ```mermaid
 flowchart TD
    A(Example report) 
-   click A "objects/complex-number-report.pdf" "An example report in which complex numbers, sets, functions, vectors and matrices are explored"
+   click A "objects/complex_number_report.pdf" "An example report in which complex numbers, sets, functions, vectors and matrices are explored"
 ```
