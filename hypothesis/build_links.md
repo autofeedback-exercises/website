@@ -8,7 +8,7 @@ I constructed the figures in the report using [this Colab notebook](https://cola
 
 I constructed the figures in the Student's colab notebook using [this Colab notebook](https://colab.research.google.com/drive/1hASKjDkyRUSo31Om_qBt9xm7pRpdJNBM?usp=sharing).
 
-## Exercise 2: Tests using Student t-distribution.
+## Exercise 2: Tests using Student t-distribution
 
 You can find the LaTeX document on Overleaf [here](https://www.overleaf.com/4459172252xthznkbvbnmx#16bb00).
 
