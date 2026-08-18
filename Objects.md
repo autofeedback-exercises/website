@@ -15,7 +15,8 @@ flowchart TD
       direction LR
       A(Example report)
    end
-   one --> two
+   one --> R["Random variable exercises"]
+   R --> two
    subgraph two
      direction LR
      D(Example report) --> E("Colab exercises")
@@ -25,4 +26,5 @@ flowchart TD
    click D "objects/objects-and-operators-report.pdf" "An example report that uses operators to manipulate mathematical objects"
    click E "https://colab.research.google.com/github/autofeedback-exercises/exercises/blob/main/Objects/Operators/Operators.ipynb" "Colab exercises on manipulating vectors, matrices and NumPy arrays using Python"
    click F "objects/operator_extensions.html" "Ideas for portfolio reports based on this topic"
+   click R "Random_variables.html" "The exercises on random variables"
 ```
