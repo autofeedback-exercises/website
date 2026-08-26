@@ -14,7 +14,7 @@ flowchart TD
    subgraph one
       direction LR
       A("Example report") --> B("Colab exercises")
-      B -- > C("Possible extensions")
+      B --> C("Possible extensions")
    end
    one --> R["Random variable exercises"]
    R --> two
