@@ -13,15 +13,15 @@ be used.
 flowchart TD
    subgraph one
       direction LR
-      A(Example report) --> B(Colab exercises)
-      B -- > C(Possible extensions)
+      A("Example report") --> B("Colab exercises")
+      B -- > C("Possible extensions")
    end
-   one --> R[Random variable exercises]
+   one --> R["Random variable exercises"]
    R --> two
    subgraph two
      direction LR
-     D(Example report) --> E(Colab exercises)
-     E --> F(Possible extensions)
+     D("Example report") --> E("Colab exercises")
+     E --> F("Possible extensions")
    end 
    click A "objects/complex_number_report.pdf" "An example report in which complex numbers, sets, functions, vectors and matrices are explored"
    click B "https://colab.research.google.com/github/autofeedback-exercises/exercises/blob/main/Objects/Basics/Objects.ipynb" "Colab exercises on manipulating sets, tuples, lists and NumPy arrays using Python"
