@@ -26,7 +26,7 @@ flowchart TD
    click statmech "https://www.plumed-tutorials.org/lessons/25/004/data/NAVIGATION.html" "Statistical mechanics is a topic in physics that allows us to use the understanding of atoms that emerges from quantum mechanics to develop theories that describe how large numbers of atoms will behave"
    click hypo "Hypothesis.html" "Material on how we can use hypothesis testing to test if a proposition is true or false"
    click nlp "Language.html" "Material on processing written language using mathematics"
-   click atmos "https://brian-rose.github.io/ClimateLaboratoryBook/" "A hands-on approach to climate physics and climate modelling" 
+   click atmos "https://brian-rose.github.io/ClimateLaboratoryBook/" "A hands on approach to climate physics and climate modelling" 
 ```
 
 ## How this site works
