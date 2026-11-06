@@ -1,4 +1,17 @@
-The central premise of this module is that you __do not__ become a mathematicain __by knowing__ mathamatics. You become a mathematician __by doing__ mathematics. Computers are a remarkable tool for helping people to do mathematics. The linked pages below thus provide you countless opportunities to __do mathematics using a computer.__ As the __only qualification__ for being a mathematician is __doing mathematics__ you can work through these activities in any order. However, following the arrows might make this process a little easier. 
+The central premise of this module is that you __do not__ become a mathematicain __by knowing__ mathamatics. You become a mathematician __by doing__ mathematics. 
+Furthermore, if you want to learn mathematics effectively you need to __do it purposefully.__. For too long we have taught mathematics in the abstract and not tried 
+spent enough time explaining (or thinking) about how people use it in their every day lives. When mathematics is taught this way students learn a debased form of mathematics
+that is about getting the "correct" answers to trivial problems. Real mathematics involves __thinking critically__ about why things are the way that they are. 
+
+We have made the case study videos that you can find on [this page](case_studies.md) to help you think about how you can use the critical thinking skills that you have developed
+by studying mathmatics. In each of these videos, you will find various people reflecting on the way that they use mathematics in their working lives.  Some of these people
+are mathematicians and some are not. We recommend that you start your studies by watching some of these videos. You can then work through the exercises below to learn the 
+mathematical skills that you will attempt to deploy in a real-world context.
+
+## Exercises
+
+Computers are a remarkable tool for helping people to do mathematics. The linked pages below thus provide you countless opportunities to __do mathematics using a computer.__ 
+As the __only qualification__ for being a mathematician is __doing mathematics__ you can work through these activities in any order. However, following the arrows might make this process a little easier. 
 
 Lastly, note that, even if you get an artificial intelligence to complete these activities, you are still doing mathematics. The goal for all the exercises in this module is for you to:
 
