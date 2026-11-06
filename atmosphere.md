@@ -14,6 +14,6 @@ flowchart TD
    ex --> eg(Example report)
    click simp "https://gtribello.github.io/pop-resources/summer_school.html" "A pair of activities on climate modelling that were written for A-level students attending a day-long summer school at QUB"
    click ex "https://brian-rose.github.io/ClimateLaboratoryBook/" "An online resource that teaches you the basics of climate modelling"
-   click eg "Atmosphere/egproject.pdf" "A (very simple) example of a report that was constructed by working through the exercises on the climate lab website" 
+   click eg "Atmosphere/egproject.pdf" "A simple example report that was constructed by working through the exercises on the climate lab website" 
 ```
 
