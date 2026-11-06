@@ -10,8 +10,10 @@ in understanding why you can work through the resources below.
 
 ```mermaid
 flowchart TD
-   ex(Introduction to atmospheric modelling) --> eg(Example report)
+   simp(Some very simple exercises to get you started with atmospheric modelling) --> ex(Online textbook that will allow you to go much further with atmospheric modelling)  
+   ex --> eg(Example report)
+   click simp "https://gtribello.github.io/pop-resources/summer_school.html" "A pair of activities on climate modelling that were written for A-level students attending a day-long summer school at QUB"
    click ex "https://brian-rose.github.io/ClimateLaboratoryBook/" "An online resource that teaches you the basics of climate modelling"
-   click eg "Atmosphere/report.pdf" "A (very simple) example of a report that was constructed by working through the exercises on the climate lab website" 
+   click eg "Atmosphere/egproject.pdf" "A (very simple) example of a report that was constructed by working through the exercises on the climate lab website" 
 ```
 
