@@ -9,7 +9,7 @@ Despite all these challenges, however, there is near universal agreement amongst
 in understanding why you can work through the resources below.
 
 ```mermaid
-flowchart TD
+flowchart LR
    simp(Some very simple exercises to get you started with atmospheric modelling) --> ex(Online textbook that will allow you to go much further with atmospheric modelling)  
    ex --> eg(Example report)
    click simp "https://gtribello.github.io/pop-resources/summer_school.html" "A pair of activities on climate modelling that were written for A-level students attending a day-long summer school at QUB"
