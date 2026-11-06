@@ -2,9 +2,9 @@
 
 |    |    |
 |--- |--- | 
-| __Dr Gareth Tribello__ is a senior lecturer in the school of mathematics and physics at Queens University Belfast.  He specialises in computational chemistry, materials science and atomistic simulation, particularly with the Centre for Quantumaterial Materials and Techonolgies.  He is one of the core project leaders and developers of [PLUMED](www.plumed.org), a widely used open-source plugin for enhanced sampling, free-energy calculations, and analyzing molecular dynamics simulations | [![Watch the video](case_study_pictures/gareth_tribello.jpg)](https://www.youtube.com/watch?v=77jJbrCTlLE) |
+| __Dr Gareth Tribello__ is a senior lecturer in the school of mathematics and physics at Queens University Belfast.  He specialises in computational chemistry, materials science and atomistic simulation, particularly with the Centre for Quantumaterial Materials and Techonolgies.  He is one of the core project leaders and developers of [PLUMED](www.plumed.org), a widely used open-source plugin for enhanced sampling, free-energy calculations, and analyzing molecular dynamics simulations | <iframe width="560" height="315" src="https://www.youtube.com/embed/77jJbrCTlLE?si=dDlgOL5WBFn2lj-2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> |
 
-[![Watch the video](https://www.youtube.com/vi/77jJbrCTlLE/maxresdefault.jpg)](https://www.youtube.com/embed/77jJbrCTlLE?si=oEIFeWp42tZ2RGVg) |
+
 
 # Professionals who work outside of academia
 
